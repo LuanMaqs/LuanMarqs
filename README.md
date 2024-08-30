@@ -6,7 +6,7 @@
 
 ### Hello, wellcome to my profile.
 
-A backend developer passionate about what he does
+A frontend developer passionate about what he does
 
 - 🔭 I am currently looking for an internship  
 - 🌱 I’m currently learning ReactJS
