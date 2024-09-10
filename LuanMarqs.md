@@ -6,17 +6,18 @@
 
 ### Hello, wellcome to my profile.
 
-A frontend developer passionate about what he does
+A fullstack developer passionate about what he does
 
 - 🔭 I am currently looking for an internship  
-- 🌱 I’m currently learning ReactJS and SalesForce
+- 🌱 I’m currently learning ReactJS and C#
 - 👨‍🎓 Studying Internet Systems at FATEC
 
 
 ---
 
-  -Atualmente focado em:
+  -Currently focused on:
 <div display = "inline" >
+  <img  width = 40 hidth = 40 src= "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png" />
   <img width = 90 hidth = 90 src = "https://www.shinteck.it/wp-content/uploads/2019/07/reactjs-card-300x150.png"/>
 <img width = 90 hidth = 90 src = "https://miro.medium.com/v2/1*aeWo6e6FC8InJwBl3TmpDw.jpeg" />
   <img width = 100 hidth = 100 src = "https://www.objective.com.br/wp-content/uploads/2020/12/salesforce-2.png" />
@@ -27,7 +28,7 @@ A frontend developer passionate about what he does
 
   
 
-- 💬 Ask me anything about to ReactJS
+- 💬 Ask me anything about to ReactJS and C#
 - 👨‍💻 All of my projects are available at: https://github.com/LuanMaqs
 - ⚡ A fact: studying changed my life 
 
@@ -38,6 +39,7 @@ A frontend developer passionate about what he does
 <img src="https://miro.medium.com/v2/1*aeWo6e6FC8InJwBl3TmpDw.jpeg" alt="nodejs" style="vertical-align:top; margin:4px"  width = 70 hidth = 70>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
   <img src = "https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/superbadges/superbadge_apex/2d3426c48dc056fd5c083ecb5cb66a56_badge.png" alt="apex" style="vertical-align:top; margin:4px" width = 60 hidth = 60/>
+  <img src = "https://banner2.cleanpng.com/20180831/iua/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-1713945971245.webp" alt="csharp" style="vertical-align:top; margin:4px" width = 60 hidth = 60/>
 <br>
 </div>
 
